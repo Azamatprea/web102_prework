@@ -79,3 +79,17 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.search-wrapper {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#search-input {
+    padding: 10px;
+    border-radius: 7px;
+    border: 1px solid #ccc;
+    width: 300px;
+    font-family: 'Cabin';
+    font-size: 16px;
+}
